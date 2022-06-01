@@ -3,13 +3,13 @@ title: Emerging Pattern Miner
 date: 2021-11-18
 description: "Java - Un applicazione Client-Server che implementa l'algoritmo Apriori, partendo da un dataset in un database MySQL
 ci permette di trovare pattern frequenti ed emergenti. "
-image: images/cctv.jpeg
+image: images/EPMiner1.png
 ---
 
-## Emerging Pattern Miner
+## EPMiner
 
 
-EpMiner è un applicativo che ci permette di scoprire Pattern Frequenti e Pattern Emergenti, partendo da
+EPMiner è un applicativo che ci permette di scoprire Pattern Frequenti e Pattern Emergenti, partendo da
 una collezione di transazioni.
 EPMiner implementa l'algoritmo di Data Mining Apriori.
 Per la scoperta di Pattern Frequenti dovremo inserire la frequenza minima, anche detta supporto.
