@@ -3,7 +3,7 @@ title: Emerging Pattern Miner
 date: 2021-11-18
 description: "Java - Un applicazione Client-Server che implementa l'algoritmo Apriori, partendo da un dataset in un database MySQL
 ci permette di trovare pattern frequenti ed emergenti. "
-image: images/EPMiner1.png
+image: images/EPMiner1.jpg
 ---
 
 ## EPMiner
