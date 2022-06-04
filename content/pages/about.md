@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-image: images/writer.jpeg
+image: images/aboutme.jpg
 menu:
   main:
     name: "About"
