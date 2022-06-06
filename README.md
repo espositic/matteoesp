@@ -2,4 +2,5 @@
 
 # ESPOSITIC.IT
 
-Codici per la realizzazione del sito Espositic.it
+Codici per la realizzazione del sito Espositic.it.
+Sito realizzato con Framework Hugo, tema Hugo Winston di Robert Austin, host su Netlify.
