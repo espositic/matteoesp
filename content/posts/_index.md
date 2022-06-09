@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 31-05-2022
+date: 09-06-2022
 menu:
   main:
     name: "Projects"
