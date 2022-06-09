@@ -6,7 +6,17 @@
     <description>Recent content in Portfolio on espositic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>espositic.it</title>
+      <link>/posts/espositicit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/espositicit/</guid>
+      <description>Il sito. Avevo intenzione di mettere in mostra tutti i progetti accademici e non che ho sviluppato negli ultimi mesi, allora ho deciso di avere un sito da utilizzare come portfolio e dando un occhiata su internet ho preso spunto da un video di Riccardo Palombo.
+Il sito è realizzato grazie al framework Hugo, che permette di gestire molto semplicemente il contenuto delle pagine con dei semplici file Markdown e tenere da parte la complessa gestione dei codici HTML e CSS.</description>
+    </item>
+    
     <item>
       <title>Emerging Pattern Miner</title>
       <link>/posts/emerging-pattern-miner/</link>
