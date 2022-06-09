@@ -3,7 +3,6 @@ title: espositic.it
 date: 2022-06-01
 description: 'Il mio sito portfolio.'
 image: images/cctv.jpeg
-draft: true
 ---
 
 ## Il sito.
